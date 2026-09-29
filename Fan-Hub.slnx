@@ -1,0 +1,1 @@
+<Solution><Project Path="FanHub.Domain/FanHub.Domain.csproj" /><Project Path="FanHub.Application/FanHub.Application.csproj" /><Project Path="FanHub.Infrastructure/FanHub.Infrastructure.csproj" /><Project Path="Fan-Hub/Fan-Hub.csproj" /><Project Path="FanHub.Tests/FanHub.Tests.csproj" /></Solution>

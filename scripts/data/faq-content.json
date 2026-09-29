@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What can I do without signing in?",
+    "answer": "Browse all eight categories, search and filter content, view profiles and media, discover events and resources, and send feedback. A member profile unlocks personalized features.",
+    "published": true
+  },
+  {
+    "question": "Where can I find every page?",
+    "answer": "The homepage contains a grouped sitemap. Open Sitemap from the navigation or footer for all public, member and administrator destinations.",
+    "published": true
+  },
+  {
+    "question": "How do I find content for a specific fandom?",
+    "answer": "Open Explore, select a category, and open Filters. Choose a fandom or universe, genre, release year, popularity, or content type. Use Popular, Latest or A–Z to sort the results.",
+    "published": true
+  },
+  {
+    "question": "How do bookmarks and notes work?",
+    "answer": "Sign in, then select the bookmark icon on a discovery. Open My collection to find it later. Open a saved item to add or update your private note. Select the bookmark again to remove it.",
+    "published": true
+  },
+  {
+    "question": "How do I personalize my dashboard?",
+    "answer": "Open Settings, choose your favorite categories and enter your favorite fandom names, then save. Your dashboard shows saved discoveries, recent activity and content matching your interests.",
+    "published": true
+  },
+  {
+    "question": "What if I forget my password?",
+    "answer": "Select Sign in, then Send recovery email. Use the token from your email to reset your password. Email delivery must be configured on the server.",
+    "published": true
+  },
+  {
+    "question": "How do I submit a fan story?",
+    "answer": "Sign in and choose Share a story. Add the title, category and content, then submit for review. Your dashboard shows pending, published or rejected status. Only approved stories appear publicly.",
+    "published": true
+  },
+  {
+    "question": "Can I purchase merchandise here?",
+    "answer": "No. Merchandise is for discovery and display only. The project does not include checkout, orders, payments or payment gateways.",
+    "published": true
+  },
+  {
+    "question": "How do I discover nearby events?",
+    "answer": "Open Events. Filter by city or choose Near me and allow browser location access. You can also explore the month calendar, view a map, and download an event for your calendar. If location is unavailable, city filtering still works.",
+    "published": true
+  },
+  {
+    "question": "Where are the ticket links?",
+    "answer": "An event with an organizer-supplied ticket URL shows an external ticket link. Listings without ticket URLs show that tickets are unavailable.",
+    "published": true
+  },
+  {
+    "question": "Can I change the appearance or text size?",
+    "answer": "Use the sun/moon button to switch appearance. Members can also open Settings and enable larger text. The interface supports keyboard navigation and respects reduced-motion preferences.",
+    "published": true
+  },
+  {
+    "question": "How do I report a problem?",
+    "answer": "Choose Send feedback, select Bug report, Suggestion or Question, and explain what happened. Your message appears in the administrator feedback inbox.",
+    "published": true
+  },
+  {
+    "question": "Will my saved items appear on another device?",
+    "answer": "Yes. Sign in to the same account to access your server-backed profile, collection and submissions. Display preferences are also remembered on this device.",
+    "published": true
+  },
+  {
+    "question": "Is the Fan Guide an AI chatbot?",
+    "answer": "Fan Guide matches your question to published help answers and saves your conversation when you are signed in. It is a guided FAQ assistant, not a generative AI chatbot.",
+    "published": true
+  },
+  {
+    "question": "Are the characters and product designs official franchise items?",
+    "answer": "The eight character worlds are original fiction. Their profiles explain their stories, and their images are stylized illustrations. Product designs are display-only concepts; they are not official franchise merchandise or items offered for sale.",
+    "published": true
+  },
+  {
+    "question": "Can I read the audio and video transcripts?",
+    "answer": "Yes. Open an audio story or visual essay and read the transcript below its player. Original videos also offer an English captions track. Narration is synthetic and does not represent a real performer.",
+    "published": true
+  },
+  {
+    "question": "Why are there no events near my location?",
+    "answer": "Near me shows listed events within 100 kilometres of the location you share. If none are nearby, clear the location filter and browse other cities. We do not invent local events to fill the map.",
+    "published": true
+  },
+  {
+    "question": "How do I turn off animations and hover effects?",
+    "answer": "Use the Effects control in the top bar to pause decorative motion. Your browser’s reduced-motion preference is also respected. You can still navigate, play media and open every card with effects off.",
+    "published": true
+  }
+]

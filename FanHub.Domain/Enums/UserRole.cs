@@ -1,0 +1,8 @@
+namespace FanHub.Domain.Enums
+{
+    public enum UserRole
+    {
+        Member,
+        Admin
+    }
+}

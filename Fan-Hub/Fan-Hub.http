@@ -1,0 +1,37 @@
+@baseUrl = https://localhost:7124
+@token = REPLACE_WITH_LOGIN_ACCESS_TOKEN
+
+### Liveness
+GET {{baseUrl}}/health/live
+
+### Register; development verification mail is in App_Data/mail
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{"email":"fan@example.com","password":"Choose-a-strong-password","displayName":"Fan"}
+
+### Verify
+POST {{baseUrl}}/api/auth/verify-email
+Content-Type: application/json
+
+{"token":"TOKEN_FROM_EMAIL"}
+
+### Login
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{"email":"fan@example.com","password":"Choose-a-strong-password"}
+
+### Browse
+GET {{baseUrl}}/api/content?sort=latest&page=1&pageSize=20
+
+### Dashboard
+GET {{baseUrl}}/api/me/dashboard
+Authorization: Bearer {{token}}
+
+### Nearby events
+GET {{baseUrl}}/api/events?latitude=24.8607&longitude=67.0011&radiusKm=50
+
+### Logout
+POST {{baseUrl}}/api/auth/logout
+Authorization: Bearer {{token}}

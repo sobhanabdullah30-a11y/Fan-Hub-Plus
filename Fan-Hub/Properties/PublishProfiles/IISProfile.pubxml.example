@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <WebPublishMethod>MSDeploy</WebPublishMethod>
+    <LaunchSiteAfterPublish>true</LaunchSiteAfterPublish>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <SiteUrlToLaunchAfterPublish>https://your-site.example/</SiteUrlToLaunchAfterPublish>
+    <ExcludeApp_Data>false</ExcludeApp_Data>
+    <SelfContained>false</SelfContained>
+    <MSDeployServiceURL>your-deployment-host.example</MSDeployServiceURL>
+    <DeployIisAppPath>your-site-name</DeployIisAppPath>
+    <SkipExtraFilesOnServer>true</SkipExtraFilesOnServer>
+    <MSDeployPublishMethod>WMSVC</MSDeployPublishMethod>
+    <EnableMSDeployBackup>true</EnableMSDeployBackup>
+    <EnableMsDeployAppOffline>true</EnableMsDeployAppOffline>
+    <UserName>your-deployment-user</UserName>
+    <_SavePWD>false</_SavePWD>
+    <_TargetId>IISWebDeploy</_TargetId>
+  </PropertyGroup>
+</Project>

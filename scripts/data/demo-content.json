@@ -1,0 +1,461 @@
+[
+  {
+    "category": "Anime",
+    "title": "[Demo] A beginner guide to building an anime watchlist",
+    "type": "Article",
+    "fandom": "Skyline Academy",
+    "genre": "Adventure",
+    "description": "Demo content. Start with one short series, note the themes you enjoy, and alternate longer stories with standalone films. This sample reading guide introduces watchlist planning without spoilers.",
+    "body": "Start with one short series, note the themes you enjoy, and alternate longer stories with standalone films. This sample reading guide introduces watchlist planning without spoilers.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "anime"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true
+  },
+  {
+    "category": "Anime",
+    "title": "[Demo] Aiko, keeper of the night observatory",
+    "type": "Character",
+    "fandom": "Skyline Academy",
+    "genre": "Fantasy",
+    "description": "Demo content. Aiko is a fictional apprentice astronomer who maps the changing skies above her city. Her curiosity, handmade telescope and loyalty to her friends shape this original sample character.",
+    "body": "Aiko is a fictional apprentice astronomer who maps the changing skies above her city. Her curiosity, handmade telescope and loyalty to her friends shape this original sample character.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "anime"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "Anime",
+    "title": "[Demo] Night skies and neon dreams",
+    "type": "Image",
+    "fandom": "Skyline Academy",
+    "genre": "Visual inspiration",
+    "description": "Demo content. A photographic mood board for an imaginary animated city. These photographs are visual inspiration, not official anime artwork.",
+    "body": "A photographic mood board for an imaginary animated city. These photographs are visual inspiration, not official anime artwork.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "anime"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "Gaming",
+    "title": "[Demo] Designing a welcoming co-op game night",
+    "type": "Article",
+    "fandom": "Pixel Quest",
+    "genre": "Co-op",
+    "description": "Demo content. Choose a short session, check accessibility options, and let every player try a different role. This guide explores cooperative play without rankings or competitive pressure.",
+    "body": "Choose a short session, check accessibility options, and let every player try a different role. This guide explores cooperative play without rankings or competitive pressure.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "gaming"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true
+  },
+  {
+    "category": "Gaming",
+    "title": "[Demo] Nova, the orbital explorer",
+    "type": "Character",
+    "fandom": "Pixel Quest",
+    "genre": "Science fiction",
+    "description": "Demo content. Nova is an original fictional explorer who repairs abandoned space stations. Her toolkit includes a scanner, a repair drone and a notebook of discoveries.",
+    "body": "Nova is an original fictional explorer who repairs abandoned space stations. Her toolkit includes a scanner, a repair drone and a notebook of discoveries.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "gaming"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "Gaming",
+    "title": "[Demo] Pixel Quest: first expedition",
+    "type": "Release",
+    "fandom": "Pixel Quest",
+    "genre": "Adventure",
+    "description": "Demo content. A fictional upcoming game release used to demonstrate release-date filtering. There is no real product, preorder or publisher attached to this listing.",
+    "body": "A fictional upcoming game release used to demonstrate release-date filtering. There is no real product, preorder or publisher attached to this listing.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "gaming"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false,
+    "releaseDayOffset": 35
+  },
+  {
+    "category": "Movies",
+    "title": "[Demo] How lighting shapes a scene",
+    "type": "Article",
+    "fandom": "Screen Stories",
+    "genre": "Filmmaking",
+    "description": "Demo content. Warm light can make a space inviting; a single side light can add mystery. Compare three scenes and consider how brightness, direction and color support the story.",
+    "body": "Warm light can make a space inviting; a single side light can add mystery. Compare three scenes and consider how brightness, direction and color support the story.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "movies"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true
+  },
+  {
+    "category": "Movies",
+    "title": "[Demo] Big Buck Bunny playback sample",
+    "type": "Video",
+    "fandom": "Screen Stories",
+    "genre": "Animation",
+    "description": "Demo content. A short public sample clip used to demonstrate the video player. The clip is not an original Fan Hub production.",
+    "body": "A short public sample clip used to demonstrate the video player. The clip is not an original Fan Hub production.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "movies"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false,
+    "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "category": "Movies",
+    "title": "[Demo] Beyond the last constellation",
+    "type": "Release",
+    "fandom": "Screen Stories",
+    "genre": "Science fiction",
+    "description": "Demo content. An imaginary film announcement about explorers following a fading star map. This release exists only to demonstrate the upcoming releases section.",
+    "body": "An imaginary film announcement about explorers following a fading star map. This release exists only to demonstrate the upcoming releases section.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "movies"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false,
+    "releaseDayOffset": 38
+  },
+  {
+    "category": "TV Shows",
+    "title": "[Demo] Planning a spoiler-free watch club",
+    "type": "Article",
+    "fandom": "Weekend Watch Club",
+    "genre": "Community",
+    "description": "Demo content. Agree on an episode boundary, use a spoiler warning, and give everyone time to speak. This sample club guide helps keep a discussion welcoming for new viewers.",
+    "body": "Agree on an episode boundary, use a spoiler warning, and give everyone time to speak. This sample club guide helps keep a discussion welcoming for new viewers.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "tv-shows"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true
+  },
+  {
+    "category": "TV Shows",
+    "title": "[Demo] Mira, the city archivist",
+    "type": "Character",
+    "fandom": "Weekend Watch Club",
+    "genre": "Mystery",
+    "description": "Demo content. Mira is an original fictional archivist who solves mysteries using forgotten letters. Her patient research balances the impulsive choices of her fellow investigators.",
+    "body": "Mira is an original fictional archivist who solves mysteries using forgotten letters. Her patient research balances the impulsive choices of her fellow investigators.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "tv-shows"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "TV Shows",
+    "title": "[Demo] The archive: a visual mood board",
+    "type": "Image",
+    "fandom": "Weekend Watch Club",
+    "genre": "Visual inspiration",
+    "description": "Demo content. Bookshelves and quiet spaces inspire the setting of a fictional mystery series. The gallery contains illustrative photography, not official television stills.",
+    "body": "Bookshelves and quiet spaces inspire the setting of a fictional mystery series. The gallery contains illustrative photography, not official television stills.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "tv-shows"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "K-Pop",
+    "title": "[Demo] Building a fan listening journal",
+    "type": "Article",
+    "fandom": "Aurora Stage",
+    "genre": "Music",
+    "description": "Demo content. Record a favorite melody, a production detail and the mood of each track. This sample guide explores listening habits without claiming an affiliation with any performer.",
+    "body": "Record a favorite melody, a production detail and the mood of each track. This sample guide explores listening habits without claiming an affiliation with any performer.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "k-pop"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true
+  },
+  {
+    "category": "K-Pop",
+    "title": "[Demo] Audio player demonstration",
+    "type": "Audio",
+    "fandom": "Aurora Stage",
+    "genre": "Sample audio",
+    "description": "Demo content. A public horse-sound audio sample demonstrates playback controls. It is a technical sample, not a K-pop song or a recording by an artist.",
+    "body": "A public horse-sound audio sample demonstrates playback controls. It is a technical sample, not a K-pop song or a recording by an artist.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "k-pop"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false,
+    "mediaUrl": "https://www.w3schools.com/html/horse.mp3"
+  },
+  {
+    "category": "Comics",
+    "title": "[Demo] Reading a page through its panels",
+    "type": "Article",
+    "fandom": "Paper Lantern Heroes",
+    "genre": "Storytelling",
+    "description": "Demo content. Follow the eye line between panels and notice where the artist changes scale. This introductory guide discusses pacing, speech balloons and visual transitions.",
+    "body": "Follow the eye line between panels and notice where the artist changes scale. This introductory guide discusses pacing, speech balloons and visual transitions.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "comics"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "Comics",
+    "title": "[Demo] The Lantern Cartographer",
+    "type": "Character",
+    "fandom": "Paper Lantern Heroes",
+    "genre": "Fantasy",
+    "description": "Demo content. An original fictional hero draws maps that glow when someone needs help. Their stories explore kindness, responsibility and the limits of magical shortcuts.",
+    "body": "An original fictional hero draws maps that glow when someone needs help. Their stories explore kindness, responsibility and the limits of magical shortcuts.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "comics"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true
+  },
+  {
+    "category": "Manga",
+    "title": "[Demo] Starting a sketchbook for visual stories",
+    "type": "Article",
+    "fandom": "Ink and Paper",
+    "genre": "Creative practice",
+    "description": "Demo content. Begin with small expressions, simple silhouettes and a three-panel scene. A consistent sketchbook habit helps turn observations into readable visual stories.",
+    "body": "Begin with small expressions, simple silhouettes and a three-panel scene. A consistent sketchbook habit helps turn observations into readable visual stories.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "manga"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "Manga",
+    "title": "[Demo] Ink, color and creative spaces",
+    "type": "Image",
+    "fandom": "Ink and Paper",
+    "genre": "Visual inspiration",
+    "description": "Demo content. An illustrative gallery of creative materials and reading spaces for a fictional visual-story project. These are photographs, not scans of published manga.",
+    "body": "An illustrative gallery of creative materials and reading spaces for a fictional visual-story project. These are photographs, not scans of published manga.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "manga"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "Cosplay",
+    "title": "[Demo] Planning your first costume build",
+    "type": "Article",
+    "fandom": "Costume Workshop",
+    "genre": "Craft",
+    "description": "Demo content. Break a costume into manageable pieces, list the materials and test comfort before a long session. This sample checklist focuses on planning and reusing available clothing.",
+    "body": "Break a costume into manageable pieces, list the materials and test comfort before a long session. This sample checklist focuses on planning and reusing available clothing.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "cosplay"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true
+  },
+  {
+    "category": "Cosplay",
+    "title": "[Demo] Constellation explorer jacket concept",
+    "type": "Merchandise",
+    "fandom": "Costume Workshop",
+    "genre": "Costume concept",
+    "description": "Demo content. A fictional costume merchandise concept shown for catalog demonstration. The photograph is illustrative; this item is not for sale and has no checkout or payment link.",
+    "body": "A fictional costume merchandise concept shown for catalog demonstration. The photograph is illustrative; this item is not for sale and has no checkout or payment link.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "cosplay"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false
+  },
+  {
+    "category": "Gaming",
+    "title": "[Demo] Community co-op showcase",
+    "type": "Event",
+    "fandom": "Pixel Quest",
+    "genre": "Community",
+    "description": "Demo content. A fictional gaming meetup for demonstrating the event calendar. No real gathering or booking is associated with this entry.",
+    "body": "A fictional gaming meetup for demonstrating the event calendar. No real gathering or booking is associated with this entry.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "gaming"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false,
+    "city": "Karachi",
+    "latitude": 24.8607,
+    "longitude": 67.0011,
+    "venue": "Demo venue - illustrative city location",
+    "eventDayOffset": 7
+  },
+  {
+    "category": "Cosplay",
+    "title": "[Demo] Costume makers afternoon",
+    "type": "Event",
+    "fandom": "Costume Workshop",
+    "genre": "Workshop",
+    "description": "Demo content. A fictional costume-planning workshop for demonstrating maps and event details. Do not travel to the illustrative location.",
+    "body": "A fictional costume-planning workshop for demonstrating maps and event details. Do not travel to the illustrative location.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "cosplay"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": true,
+    "city": "Lahore",
+    "latitude": 31.5204,
+    "longitude": 74.3587,
+    "venue": "Demo venue - illustrative city location",
+    "eventDayOffset": 14
+  },
+  {
+    "category": "K-Pop",
+    "title": "[Demo] Fan listening circle",
+    "type": "Event",
+    "fandom": "Aurora Stage",
+    "genre": "Community",
+    "description": "Demo content. A fictional listening-circle event for testing calendar and city filters. There is no real artist appearance or ticket sale.",
+    "body": "A fictional listening-circle event for testing calendar and city filters. There is no real artist appearance or ticket sale.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "k-pop"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false,
+    "city": "Islamabad",
+    "latitude": 33.6844,
+    "longitude": 73.0479,
+    "venue": "Demo venue - illustrative city location",
+    "eventDayOffset": 21
+  },
+  {
+    "category": "Comics",
+    "title": "[Demo] Sketch and story exchange",
+    "type": "Event",
+    "fandom": "Paper Lantern Heroes",
+    "genre": "Workshop",
+    "description": "Demo content. A fictional drawing meetup used to demonstrate event discovery. The schedule and map position are sample data only.",
+    "body": "A fictional drawing meetup used to demonstrate event discovery. The schedule and map position are sample data only.\n\nThis is fictional demonstration content for Fan Hub Plus. Images are illustrative photography. Events, characters and products are not real announcements.",
+    "tags": [
+      "demo",
+      "fanhub-demo-v1",
+      "comics"
+    ],
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=85"
+    ],
+    "featured": false,
+    "city": "Rawalpindi",
+    "latitude": 33.5651,
+    "longitude": 73.0169,
+    "venue": "Demo venue - illustrative city location",
+    "eventDayOffset": 28
+  }
+]

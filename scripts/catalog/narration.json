@@ -1,0 +1,138 @@
+[
+  {
+    "key": "anime-voice",
+    "text": "Tonight the observatory is quiet. I can hear the wind turning the loose sign below the stairs. There is one light where my map says the sky should be empty. I almost erased it. Then I remembered that a map is a question, not an answer. Tomorrow I will ask someone to climb the hill with me. Some discoveries are too large to carry alone.",
+    "voice": "Microsoft Zira Desktop",
+    "video": false
+  },
+  {
+    "key": "anime-film",
+    "text": "Begin with the horizon. A low skyline leaves room for the sky to carry the mood. Next, separate warm lantern light from cool distant buildings. Give one small point of light more contrast than everything around it. Finally, hold the composition long enough for the viewer to discover that point. This is a visual planning exercise for Lumen Crossing, an original fictional world.",
+    "voice": "Microsoft David Desktop",
+    "video": true,
+    "plates": [
+      "anime-plate-1",
+      "anime-plate-2",
+      "anime-plate-3"
+    ]
+  },
+  {
+    "key": "gaming-voice",
+    "text": "Relay three is online. Pip, if you can hear this, blink twice. There you are. I took the shorter route and I was wrong. The crew is waiting for a signal, not an excuse. We have one battery, a damaged antenna and enough cable for a second attempt. Let us make the connection before we start counting the things we do not have.",
+    "voice": "Microsoft David Desktop",
+    "video": false
+  },
+  {
+    "key": "gaming-film",
+    "text": "A readable route begins with a destination the player can recognize. Put the beacon above the surrounding shapes. Use a repeated line to connect the foreground with the next platform. Leave one optional path that returns to the main route. At the landing zone, repeat the beacon color so arrival feels intentional. These diagrams describe a fictional level, not footage from a released game.",
+    "voice": "Microsoft Zira Desktop",
+    "video": true,
+    "plates": [
+      "gaming-plate-1",
+      "gaming-plate-2",
+      "gaming-plate-3"
+    ]
+  },
+  {
+    "key": "movies-voice",
+    "text": "The lamp held through midnight. There is salt on the inside of the window again, and the west stair needs another nail. A boat crossed the outer light just before the rain. I kept telling myself it was a fishing crew. Then I saw the blue flag. I have carried that letter for six years. In the morning, I will finally open it.",
+    "voice": "Microsoft Zira Desktop",
+    "video": false
+  },
+  {
+    "key": "movies-film",
+    "text": "Start with a dark horizon and one warm source. The lamp gives the viewer a place to look before the tower becomes visible. Add a reflected path to connect that light with the foreground. In the second composition, the window becomes the focal point. In the final view, reduce the contrast to make the same place feel calmer. These are original composition boards rather than film excerpts.",
+    "voice": "Microsoft David Desktop",
+    "video": true,
+    "plates": [
+      "movies-plate-1",
+      "movies-plate-2",
+      "movies-plate-3"
+    ]
+  },
+  {
+    "key": "tv-voice",
+    "text": "If you are hearing this, the clocks have started again. Do not rewind the tape yet. Write down the first thing you remember about this morning. Mine was the sound of a train, but there was no train on the schedule. Someone has filed the missing hour under maintenance. I think they expected us to stop asking once the lights came back on.",
+    "voice": "Microsoft David Desktop",
+    "video": false
+  },
+  {
+    "key": "tv-film",
+    "text": "A mystery does not need to reveal its answer in the opening image. Begin with an ordinary room and one detail that does not belong. Repeat that detail in a second place. Let the audience compare the two before introducing a third clue. In Archive Nine, circles suggest clocks while parallel lines suggest stored records. The visual pattern connects the scenes without explaining the missing hour.",
+    "voice": "Microsoft Zira Desktop",
+    "video": true,
+    "plates": [
+      "tv-plate-1",
+      "tv-plate-2",
+      "tv-plate-3"
+    ]
+  },
+  {
+    "key": "kpop-voice",
+    "text": "Before we record, listen to the room. There is a little hum near the window and a chair that clicks when someone leans back. We could remove every trace of being here, but I want to keep one. Not the mistake that distracts from the song. The small sound that reminds us we made it together. Ready? Let us start with the part nobody has heard yet.",
+    "voice": "Microsoft Zira Desktop",
+    "video": false
+  },
+  {
+    "key": "kpop-film",
+    "text": "A repeated shape creates a pulse for the eye. Keep the spacing regular, then change one element to make an accent. A second color can introduce a new layer without increasing the number of shapes. Finally, leave a quiet area so the composition has room to breathe. This motion study is about visual rhythm; it does not contain a commercial song or an artist performance.",
+    "voice": "Microsoft David Desktop",
+    "video": true,
+    "plates": [
+      "kpop-plate-1",
+      "kpop-plate-2",
+      "kpop-plate-3"
+    ]
+  },
+  {
+    "key": "comics-voice",
+    "text": "The street on your map is gone. Do not worry. Follow the bakery lights until you reach the painted door. Someone moved the bridge again, but the old woman on the corner remembers where it went. That is the thing about this city. The buildings keep changing their minds. The people keep leaving directions for one another. I will meet you at the last lantern.",
+    "voice": "Microsoft David Desktop",
+    "video": false
+  },
+  {
+    "key": "comics-film",
+    "text": "The first panel establishes a place. The second moves closer to the object that matters. The third allows a pause before the next action. Notice how a narrow panel changes the amount of information you can take in at once. The gutters keep each moment separate while inviting the reader to connect them. These original boards are a layout exercise for the Lantern District.",
+    "voice": "Microsoft Zira Desktop",
+    "video": true,
+    "plates": [
+      "comics-plate-1",
+      "comics-plate-2",
+      "comics-plate-3"
+    ]
+  },
+  {
+    "key": "manga-voice",
+    "text": "I folded the page three times before I noticed it was blank. Usually the words arrive first. A promise, an apology, a sentence someone could not finish. This time there was only the sound of the canal. So I wrote one line of my own. I would like to stay. The boat did not move until I stopped holding the string.",
+    "voice": "Microsoft Zira Desktop",
+    "video": false
+  },
+  {
+    "key": "manga-film",
+    "text": "Begin with the largest dark shape. Let the surrounding white space describe its edge. Add only the lines that explain a change of direction or material. In the second frame, notice how a repeated diagonal suggests a folded surface. In the last, leave an open area where the eye can rest. The exercise uses original drawings inspired by paper and water.",
+    "voice": "Microsoft David Desktop",
+    "video": true,
+    "plates": [
+      "manga-plate-1",
+      "manga-plate-2",
+      "manga-plate-3"
+    ]
+  },
+  {
+    "key": "cosplay-voice",
+    "text": "The drawing never has to climb a staircase. You do. Before we add another buckle, raise your arms and turn around. Good. That is the shape we need to protect. We can make the collar dramatic without making it heavy. We can make the coat memorable without hiding the person inside it. A costume should give you room to become someone, not take your room away.",
+    "voice": "Microsoft David Desktop",
+    "video": false
+  },
+  {
+    "key": "cosplay-film",
+    "text": "Start with a silhouette that reads from across the room. Divide it into a main shape, a supporting layer and one accent. Repeat a color in two small places to connect the design. Before adding detail, consider where the wearer bends and where the costume separates for transport. These original boards are design concepts, not a step-by-step construction or tool-safety tutorial.",
+    "voice": "Microsoft Zira Desktop",
+    "video": true,
+    "plates": [
+      "cosplay-plate-1",
+      "cosplay-plate-2",
+      "cosplay-plate-3"
+    ]
+  }
+]
