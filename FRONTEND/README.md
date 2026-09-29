@@ -29,6 +29,12 @@ From the solution root, run ./scripts/Build-Release.ps1 to build and package bot
 
 Live URL: https://tech360-fanhub.runasp.net/
 
+### Vercel frontend deployment
+
+Import this GitHub repository into Vercel and set the project root directory to `FRONTEND`. The committed `vercel.json` builds the Vite application and proxies `/api` and `/health` to the hosted ASP.NET Core backend. No backend credentials or browser-visible secrets are required in Vercel.
+
+The ASP.NET Core API and SQL Server database remain on their current host. Vercel serves the frontend only. Verification and password-reset links continue to use the backend's configured `Email:FrontendUrl` unless that deployment setting is intentionally changed.
+
 ## Source structure
 
 - `app`: application state, navigation and route definitions.
